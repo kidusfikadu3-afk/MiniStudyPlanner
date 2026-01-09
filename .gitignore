@@ -1,0 +1,12 @@
+# Ignore the Python Virtual Environment (The junk folder)
+venv/
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore VS Code settings (Personal to you)
+.vscode/
+
+# Ignore System files
+.DS_Store
+Thumbs.db
